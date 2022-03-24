@@ -1,10 +1,3 @@
-/*
-
- Red Team Operator course code template - DLL
- author: reenz0h (twitter: @sektor7net)
-
-*/
-
 #include <Windows.h>
 #pragma comment (lib, "user32.lib")/*编译动作指令#pragma 执行语言实现所定义的用于，具体的内容需要参考所使用的​​编译器的帮助comment都是用来调用动态库或静态库的*/
 
